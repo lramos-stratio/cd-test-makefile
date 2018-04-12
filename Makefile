@@ -9,3 +9,6 @@ clean:
 compile:
 	bin/compile.sh
 
+package:
+	bin/package.sh
+
