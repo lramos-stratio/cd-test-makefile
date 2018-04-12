@@ -1,5 +1,5 @@
 # Changelog
 
-## 0.1.0_28491cd (upcoming)
+## 0.1.0 (upcoming)
 
 * Test
