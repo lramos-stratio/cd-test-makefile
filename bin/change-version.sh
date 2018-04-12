@@ -2,3 +2,5 @@
 
 echo "Mock changing version"
 
+VER=$1
+echo "Modifying Schema versions to: $VER"
