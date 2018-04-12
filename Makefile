@@ -12,3 +12,6 @@ compile:
 package:
 	bin/package.sh
 
+deploy:
+	bin/deploy.sh
+
