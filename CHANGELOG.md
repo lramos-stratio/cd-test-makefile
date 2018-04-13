@@ -1,7 +1,11 @@
 # Changelog
 
 
-## 0.4.0 (upcoming)
+## 0.5.0 (upcoming)
+
+* Pending changelog
+
+## 0.4.0_67bde5d (Built: April 13, 2018, unreleased)
 
 * This is a change for version 0.4.0
 
