@@ -5,7 +5,7 @@
 
 * Pending changelog
 
-## 0.5.0_10b1902 (Built: April 13, 2018, unreleased)
+## 0.5.0_10b1902 (Built: April 13, 2018, Released: April 13, 2018)
 
 * This is a change for version 0.5.0
 
