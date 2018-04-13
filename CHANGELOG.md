@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.1 (upcoming)
+## 0.1.0 (upcoming)
 
 * Test
 
