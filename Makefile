@@ -4,14 +4,14 @@ change-version:
 	bin/change-version.sh ${version}
 
 clean:
-	bin/clean.sh
+	bin/clean.sh ${version}
 
 compile:
-	bin/compile.sh
+	bin/compile.sh ${version}
 
 package:
-	bin/package.sh
+	bin/package.sh ${version}
 
 deploy:
-	bin/deploy.sh
+	bin/deploy.sh ${version}
 
