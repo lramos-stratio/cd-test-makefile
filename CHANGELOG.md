@@ -3,7 +3,7 @@
 
 ## 0.8.0 (upcoming)
 
-* Pending changelog
+* This is a change for version 0.8.0
 
 ## 0.7.0_ef62e40 (Built: April 17, 2018, Released: April 17, 2018)
 
