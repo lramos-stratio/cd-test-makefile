@@ -5,7 +5,7 @@
 
 * Pending changelog
 
-## 0.12.1_ee2a5c2 (Built: April 17, 2018, unreleased)
+## 0.12.1_ee2a5c2 (Built: April 17, 2018, Released: April 17, 2018)
 
 * This is a change for version 0.12.1
 * This is another change for version 0.12.1
