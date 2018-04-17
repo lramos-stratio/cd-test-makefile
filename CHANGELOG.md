@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.7.0 (upcoming)
+## 0.7.0 (April 17, 2018)
 
 * This is another change for version 0.7.0
 
