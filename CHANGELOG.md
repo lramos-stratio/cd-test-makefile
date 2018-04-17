@@ -9,8 +9,6 @@
 
 * This is a change for version 0.12.1
 
-
-
 ## 0.12.0_d492a77 (Built: April 17, 2018, Released: April 17, 2018)
 
 * This is a change for version 0.12.0
