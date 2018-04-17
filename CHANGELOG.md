@@ -1,7 +1,11 @@
 # Changelog
 
 
-## 0.7.0 (upcoming)
+## 0.8.0 (upcoming)
+
+* Pending changelog
+
+## 0.7.0_fd2fdd2 (Built: April 17, 2018, unreleased)
 
 * This is another change for version 0.7.0
 
