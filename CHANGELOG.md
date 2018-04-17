@@ -9,8 +9,6 @@
 
 * This is a change for version 0.11.1
 
-
-
 ## 0.11.0_24a1b07 (Built: April 17, 2018, Released: April 17, 2018)
 
 * This is a change for version 0.11.0
