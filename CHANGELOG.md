@@ -5,6 +5,12 @@
 
 * Pending changelog
 
+## 0.6.2_ec31ebc (Built: April 17, 2018, unreleased)
+
+* This is a change for version 0.6.2
+
+
+
 ## 0.6.1_61797b1 (Built: April 16, 2018, Released: April 16, 2018)
 
 * This is a change for version 0.6.1
