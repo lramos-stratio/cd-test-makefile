@@ -5,7 +5,7 @@
 
 * Pending changelog
 
-## 0.7.0_ef62e40 (Built: April 17, 2018, unreleased)
+## 0.7.0_ef62e40 (Built: April 17, 2018, Released: April 17, 2018)
 
 * This is a change for version 0.7.0
 * This is another change for version 0.7.0
