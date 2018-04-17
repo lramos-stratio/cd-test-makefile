@@ -3,6 +3,7 @@
 ## 0.6.2 (April 17, 2018)
 
 * This is a change for version 0.6.2
+* This is another change for version 0.6.2
 
 ## 0.6.1 (Built: April 16, 2018, Released: April 16, 2018)
 
