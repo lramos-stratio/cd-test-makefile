@@ -5,7 +5,7 @@
 
 * Pending changelog
 
-## 0.10.0_d76d80a (Built: April 17, 2018, unreleased)
+## 0.10.0_d76d80a (Built: April 17, 2018, Released: April 17, 2018)
 
 * This is a change for version 0.10.0
 
