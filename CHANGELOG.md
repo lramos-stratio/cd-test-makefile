@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.6.1 (April 16, 2018)
+## 0.6.2 (upcoming)
+
+* This is a change for version 0.6.2
+
+## 0.6.1 (Built: April 16, 2018, Released: April 16, 2018)
 
 * This is a change for version 0.6.1
 
