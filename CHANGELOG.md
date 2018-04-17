@@ -3,6 +3,7 @@
 
 ## 0.7.0 (April 17, 2018)
 
+* This is a change for version 0.7.0
 * This is another change for version 0.7.0
 
 ## 0.6.2_b377950 (Built: April 17, 2018, unreleased)
