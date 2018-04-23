@@ -5,7 +5,7 @@
 
 * Pending changelog
 
-## 0.14.0-ef7baca (Built: April 23, 2018, Pre-release)
+## 0.14.0-ef7baca (Built: April 23, 2018, Released: April 23, 2018)
 
 * This is a change for version 0.14.0
 
