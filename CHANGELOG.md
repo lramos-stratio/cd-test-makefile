@@ -5,7 +5,7 @@
 
 * This is a change for version 0.14.0
 
-## 0.13.1_6a0a517 (Built: April 23, 2018, Pre-release)
+## 0.13.1_6a0a517 (Built: April 23, 2018, Released: April 23, 2018)
 
 * This is a bugfix for version 0.13.0
 
