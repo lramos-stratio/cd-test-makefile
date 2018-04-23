@@ -1,32 +1,15 @@
 # Changelog
 
 
-## 0.15.0 (upcoming)
+## 0.13.0 (upcoming)
 
-* Pending changelog
-
-## 0.14.1-ac91afa (Built: April 23, 2018, Released: April 23, 2018)
-
-* This is a change for version 0.14.1
-
-## 0.14.0-ef7baca (Built: April 23, 2018, Released: April 23, 2018)
-
-* This is a change for version 0.14.0
-
-## 0.13.1_6a0a517 (Built: April 23, 2018, Released: April 23, 2018)
-
-* This is a bugfix for version 0.13.0
-
-## 0.13.0_3596b8b (Built: April 23, 2018, Released: April 23, 2018)
-
-* This is a new change for version 0.13.0
 * This is a change for version 0.13.0
 
-## 0.12.4_da72508 (Built: April 18, 2018, Released: April 18, 2018)
+## 0.12.4-da72508 (Built: April 18, 2018, Released: April 18, 2018)
 
 * This is a change for version 0.12.4
 
-## 0.12.3_ff8edfe (Built: April 17, 2018, Released: April 17, 2018)
+## 0.12.3-ff8edfe (Built: April 17, 2018, Released: April 17, 2018)
 
 * This is a change for version 0.12.3
 * This is another change for version 0.12.3
