@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.13.1 (upcoming)
+## 0.13.1 (April 23, 2018)
 
 * This is a bugfix for version 0.13.0
 
