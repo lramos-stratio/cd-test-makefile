@@ -12,8 +12,8 @@ cd $BASEDIR
 PATH=$(pwd)/dist:$PATH
 
 # Generate combined xml
-env/bin/coverage combine coverage.ut coverage.it > /dev/null 2>&1
-env/bin/coverage xml -o target/coverage-reports/overall-coverage.xml > /dev/null 2>&1
+env/bin/coverage combine coverage.ut coverage.it
+env/bin/coverage xml -o target/coverage-reports/overall-coverage.xml
 mv .coverage coverage.overall
 
 # Generate pylint report
