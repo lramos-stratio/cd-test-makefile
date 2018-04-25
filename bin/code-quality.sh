@@ -1,9 +1,6 @@
 #!/bin/bash -ex
 
-pip install --upgrade pip
-pip install six
 pip install -r bin/requirements.txt
-pip install -e .
 
 echo "Mock code-quality (Sonar)"
 
