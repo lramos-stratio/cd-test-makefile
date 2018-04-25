@@ -12,7 +12,7 @@ compile:
 test:
 	bin/test-ut.sh ${version}
 
-code-quality: env
+code-quality:
 	bin/code-quality.sh ${version}
 
 package:
