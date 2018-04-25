@@ -9,6 +9,9 @@ clean:
 compile:
 	bin/compile.sh ${version}
 
+test:
+	bin/test-ut.sh ${version}
+
 package:
 	bin/package.sh ${version}
 
