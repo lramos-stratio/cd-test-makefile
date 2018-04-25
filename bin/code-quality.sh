@@ -1,7 +1,5 @@
 #!/bin/bash -ex
 
-pip install -r bin/requirements.txt
-
 echo "Mock code-quality (Sonar)"
 
 VER=$1
@@ -14,8 +12,8 @@ cd $BASEDIR
 PATH=$(pwd)/dist:$PATH
 
 # Generate combined xml
-env/bin/coverage combine coverage.ut coverage.it
-env/bin/coverage xml -o target/coverage-reports/overall-coverage.xml
+/usr/local/bin/coverage combine coverage.ut coverage.it
+/usr/local/bin/coverage xml -o target/coverage-reports/overall-coverage.xml
 mv .coverage coverage.overall
 
 # Generate pylint report
