@@ -5,7 +5,7 @@
 
 * Pending changelog
 
-## 0.20.0-9cc8b8c (Built: May 11, 2018 | Pre-release)
+## 0.20.0-9cc8b8c (Built: May 11, 2018 | Released: May 11, 2018)
 
 * This is a change for version 0.20.0
 
