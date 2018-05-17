@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.24.0-6e42852 (Built: May 17, 2018 | Pre-release)
+## 0.24.0-83120ea (Built: May 17, 2018 | Pre-release)
 
 * This is a change for version 0.24.0
 
