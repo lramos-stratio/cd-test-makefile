@@ -1,9 +1,17 @@
 # Changelog
 
 
+## 0.23.0 (upcoming)
+
+* Pending changelog
+
 ## [0.22.0 (upcoming)](https://github.com/stratiocommit-test/cd-test-makefile/compare/0.21.0...HEAD)
 
 * This is a change for version 0.22.0
+
+## 0.22.0-e374d28 (Built: May 17, 2018 | Pre-release)
+
+
 
 ## 0.21.1-f3e23ee (Built: May 14, 2018 | Released: May 14, 2018)
 
