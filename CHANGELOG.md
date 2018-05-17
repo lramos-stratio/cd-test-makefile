@@ -1,7 +1,7 @@
 # Changelog
 
 
-## [0.22.0 (upcoming)](https://github.com/stratiocommit-test/cd-test-makefile/compare/0.21.0...HEAD)
+## [0.22.0 (May 17, 2018)](https://github.com/stratiocommit-test/cd-test-makefile/compare/0.21.0...HEAD)
 
 * This is a change for version 0.22.0
 
