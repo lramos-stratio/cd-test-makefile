@@ -1,23 +1,23 @@
 all: clean compile
 
 change-version:
-	bin/change-version.sh ${version}
+	bin/change-version.sh $(version)
 
 clean:
-	bin/clean.sh ${version}
+	bin/clean.sh $(version)
 
 compile:
-	bin/compile.sh ${version}
+	bin/compile.sh $(version)
 
 test:
-	bin/test-ut.sh ${version}
+	bin/test-ut.sh $(version)
 
 code-quality:
-	bin/code-quality.sh ${version}
+	bin/code-quality.sh $(version)
 
 package:
-	bin/package.sh ${version}
+	bin/package.sh $(version)
 
 deploy:
-	bin/deploy.sh ${version}
+	bin/deploy.sh $(version)
 
