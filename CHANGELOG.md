@@ -1,11 +1,11 @@
 # Changelog
 
 
-## 0.22.0 (upcoming)
+## 0.22.0 ([upcoming])
 
 * This is a change for version 0.22.0
 
-## 0.21.1-f3e23ee (Built: May 14, 2018 | Released: May 14, 2018)
+## [0.21.1-f3e23ee] (Built: May 14, 2018 | Released: May 14, 2018)
 
 * This is a change for version 0.21.1
 
