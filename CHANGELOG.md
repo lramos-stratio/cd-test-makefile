@@ -13,7 +13,7 @@
 
 * This is a change for version 0.21.0
 
-## 0.20.0-9cc8b8c(https://github.com/stratiocommit-test/cd-test-makefile/compare/0.19.0...0.20.0) (Built: May 11, 2018 | Released: May 11, 2018)
+## [0.20.0-9cc8b8c](https://github.com/stratiocommit-test/cd-test-makefile/compare/0.19.0...0.20.0) (Built: May 11, 2018 | Released: May 11, 2018)
 
 * This is a change for version 0.20.0
 
