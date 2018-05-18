@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.25.0 (upcoming)
+## 0.25.0 (Built: May 18, 2018 | Pre-release)
 
 * Pending changelog
 
