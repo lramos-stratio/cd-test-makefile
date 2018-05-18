@@ -1,6 +1,6 @@
 # Version History
 
-## 0.26.0 (upcoming)
+## 0.26.0 (Built: May 18, 2018 | Pre-release)
 
 ## 0.25.0-d555abc (Built: May 18, 2018 | Pre-release)
 
