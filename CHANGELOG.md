@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.27.0 (upcoming)
+## 0.27.0 (Built: May 18, 2018 | Pre-release)
 
 * This is a change for version 0.27.0
 
