@@ -1,8 +1,12 @@
 # Changelog
 
-## 0.25.0 (upcoming)
+## 0.26.0 (upcoming)
 
 * Pending changelog
+
+## 0.25.0-d555abc (Built: May 18, 2018 | Pre-release)
+
+* This is a change for version 0.25.0
 
 ## 0.24.0-83120ea (Built: May 17, 2018 | Pre-release)
 
