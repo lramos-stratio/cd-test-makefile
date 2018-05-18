@@ -1,6 +1,12 @@
 # Version History
 
-## 0.26.0 (upcoming)
+## 0.27.0 (upcoming)
+
+* Pending changelog
+
+## 0.26.0-f4d07a1 (Built: May 18, 2018 | Pre-release)
+
+* This is a change for version 0.26.0
 
 ## 0.25.0-d555abc (Built: May 18, 2018 | Pre-release)
 
