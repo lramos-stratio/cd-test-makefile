@@ -1,7 +1,11 @@
 # Changelog
 
 
-## 0.31.0 (upcoming)
+## 0.32.0 (upcoming)
+
+* Pending changelog
+
+## 0.31.0-fbacfc0 (Built: May 21, 2018 | Pre-release)
 
 * This is a change for version 0.31.0
 
