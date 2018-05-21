@@ -1,7 +1,9 @@
 # Version History
 
 
-## 0.30.0 (upcoming)
+## 0.31.0 (upcoming)
+
+## 0.30.0-ecc9852 (Built: May 21, 2018 | Pre-release)
 
 ## 0.29.1-1b93c3c (Built: May 21, 2018 | Released: May 21, 2018)
 
