@@ -4,6 +4,8 @@
 ## 0.29.1 (Built: May 21, 2018 | Pre-release)
 
 * This is a change for version 0.29.1
+* This is another change for version 0.29.1
+
 
 ## 0.29.0 (Built: May 21, 2018 | Pre-release)
 
