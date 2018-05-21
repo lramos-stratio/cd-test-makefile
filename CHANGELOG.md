@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.30.1 (upcoming)
+
+* This is a change for version 0.30.1
 
 ## 0.30.0 (Built: May 21, 2018 | Pre-release)
 
