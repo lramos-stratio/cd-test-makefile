@@ -3,7 +3,7 @@
 
 ## 0.35.0 (upcoming)
 
-## 0.34.1-4222f6e (Built: May 21, 2018 | Pre-release)
+## 0.34.1-4222f6e (Built: May 21, 2018 | Released: May 21, 2018)
 
 ## 0.34.0-260eed3 (Built: May 21, 2018 | Released: May 21, 2018)
 
