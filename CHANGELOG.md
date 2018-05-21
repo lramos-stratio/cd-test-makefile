@@ -3,7 +3,7 @@
 
 ## 0.34.0 (upcoming)
 
-* Pending changelog
+* This is a change for version 0.34.0
 
 ## 0.33.0-bf0185c (Built: May 21, 2018 | Pre-release)
 
