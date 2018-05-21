@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.29.1 (upcoming)
+## 0.29.1 (Built: May 21, 2018 | Pre-release)
 
 * This is a change for version 0.29.1
 
