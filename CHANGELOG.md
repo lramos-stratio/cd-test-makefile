@@ -1,7 +1,11 @@
 # Changelog
 
 
-## 0.35.0 (upcoming)
+## 0.36.0 (upcoming)
+
+* Pending changelog
+
+## 0.35.0-8f38052 (Built: May 23, 2018 | Pre-release)
 
 * This is a change for version 0.35.0
 
