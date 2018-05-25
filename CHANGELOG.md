@@ -3,7 +3,7 @@
 
 ## 0.36.0 (upcoming)
 
-* Pending changelog
+* This is a change for version 0.36.0
 
 ## 0.35.0-8f38052 (Built: May 23, 2018 | Released: May 23, 2018)
 
