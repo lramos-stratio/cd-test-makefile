@@ -1,7 +1,11 @@
 # Changelog
 
 
-## 0.36.0 (upcoming)
+## 0.37.0 (upcoming)
+
+* Pending changelog
+
+## 0.36.0-ce6016b (Built: May 25, 2018 | Pre-release)
 
 * This is a change for version 0.36.0
 
