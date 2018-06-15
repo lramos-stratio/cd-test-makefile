@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.37.0 (upcoming)
+## 0.37.0 (June 15, 2018)
 
 * Change Version History size.
 
