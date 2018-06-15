@@ -5,7 +5,7 @@
 
 * Pending changelog
 
-## 0.37.0-2dde526 (Built: June 15, 2018 | Pre-release)
+## 0.37.0-2eb6125 (Built: June 15, 2018 | Pre-release)
 
 * Change Version History size.
 
