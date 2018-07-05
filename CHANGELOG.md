@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.38.0 (upcoming)
+## 0.38.0 (July 05, 2018)
 
 * This is a change for version 0.38.0
 
