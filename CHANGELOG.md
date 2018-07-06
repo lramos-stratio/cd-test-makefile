@@ -5,7 +5,7 @@
 
 * Pending changelog
 
-## 0.38.0-30d6320 (Built: July 05, 2018 | Pre-release)
+## 0.38.0-244849f (Built: July 06, 2018 | Pre-release)
 
 * This is a change for version 0.38.0
 
