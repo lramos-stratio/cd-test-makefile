@@ -5,7 +5,7 @@
 
 * Change for checking prerelease and milestones.
 
-## 0.39.0-4d17df9 (Built: July 06, 2018 | Released: July 06, 2018)
+## 0.39.0-a34e478 (Built: July 12, 2018 | Pre-release)
 
 * This is a change for version 0.39.0
 
