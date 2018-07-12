@@ -3,7 +3,7 @@
 
 ## 0.40.0 (upcoming)
 
-* Pending changelog
+* Change for checking prerelease and milestones.
 
 ## 0.39.0-4d17df9 (Built: July 06, 2018 | Released: July 06, 2018)
 
