@@ -3,7 +3,7 @@
 
 ## 0.42.0 (upcoming)
 
-* Pending changelog
+* Check commented doDocker.
 
 ## 0.41.0-77da234 (Built: July 13, 2018 | Released: July 13, 2018)
 
