@@ -14,4 +14,5 @@ hose {
         doStaticAnalysis(config)
         doDeploy(config)
         //  doDocker(conf: config, skipOnPR: false)
+        }
 }
