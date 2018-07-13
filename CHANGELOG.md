@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.43.0 (upcoming)
+## 0.43.0 (July 13, 2018)
 
 * Check commented doDocker.
 
