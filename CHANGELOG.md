@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.40.0 (upcoming)
+## 0.40.0 (July 13, 2018)
 
 * Change for checking prerelease and milestones.
 
