@@ -13,6 +13,7 @@ hose {
         doPackage(config)
         doStaticAnalysis(config)
         doDeploy(config)
-        doDocker(config)
-    }
+        //DOCKER: {
+        //  doDocker(conf: config, skipOnPR: false)
+        //},    }    }
 }
