@@ -5,7 +5,7 @@
 
 * Pending changelog
 
-## 0.43.0-c888676 (Built: July 13, 2018 | Pre-release)
+## 0.43.0-c888676 (Built: July 13, 2018 | Released: July 13, 2018)
 
 * Check commented doDocker.
 
