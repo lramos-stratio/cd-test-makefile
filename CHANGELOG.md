@@ -1,7 +1,11 @@
 # Changelog
 
 
-## 0.40.0 (upcoming)
+## 0.41.0 (upcoming)
+
+* Pending changelog
+
+## 0.40.0-7f3d57c (Built: July 13, 2018 | Pre-release)
 
 * Change for checking prerelease and milestones.
 
