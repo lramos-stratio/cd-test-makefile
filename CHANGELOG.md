@@ -5,7 +5,7 @@
 
 * Pending changelog
 
-## 0.40.0-7f3d57c (Built: July 13, 2018 | Pre-release)
+## 0.40.0-7f3d57c (Built: July 13, 2018 | Released: July 13, 2018)
 
 * Change for checking prerelease and milestones.
 
