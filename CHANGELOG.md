@@ -1,7 +1,11 @@
 # Changelog
 
 
-## 0.42.0 (upcoming)
+## 0.43.0 (upcoming)
+
+* Pending changelog
+
+## 0.42.0-5f8074e (Built: July 13, 2018 | Pre-release)
 
 * Check commented doDocker.
 
