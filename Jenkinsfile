@@ -15,5 +15,5 @@ hose {
         doDeploy(config)
         //DOCKER: {
         //  doDocker(conf: config, skipOnPR: false)
-        //},    }    }
+        //}
 }
