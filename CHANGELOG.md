@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.46.0 (upcoming)
+## 0.46.0 (July 16, 2018)
 
 * Check commented doDocker.
 
