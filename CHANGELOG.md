@@ -1,7 +1,11 @@
 # Changelog
 
 
-## 0.46.0 (upcoming)
+## 0.47.0 (upcoming)
+
+* Pending changelog
+
+## 0.46.0-eaae870 (Built: July 16, 2018 | Pre-release)
 
 * Check commented doDocker.
 
