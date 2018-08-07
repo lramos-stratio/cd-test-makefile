@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.49.10 (upcoming)
+## 0.49.10 (August 07, 2018)
 
 * Test old versioning in branch IV.
 
