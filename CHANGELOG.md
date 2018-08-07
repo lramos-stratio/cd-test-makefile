@@ -1,6 +1,10 @@
 # Changelog
 
 
+## 0.50.0 (upcoming)
+
+* Pending changelog
+
 ## 0.49.0 (upcoming)
 
 * Test old versioning in branch II.
