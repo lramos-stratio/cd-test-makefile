@@ -3,7 +3,7 @@
 
 ## 0.50.0 (upcoming)
 
-* Pending changelog
+* Change to new versioning.
 
 ## 0.49.0 (August 07, 2018)
 
