@@ -3,7 +3,7 @@
 
 ## 0.48.0 (upcoming)
 
-* Pending changelog
+* Test old versioning in branch.
 
 ## 0.47.0-00534c8 (Built: July 16, 2018 | Released: July 16, 2018)
 
