@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.48.0 (upcoming)
+## 0.48.0 (August 07, 2018)
 
 * Test old versioning in branch.
 
