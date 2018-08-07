@@ -2,7 +2,6 @@
 
 hose {
     EMAIL = 'cd'
-    BUILDTOOLVERSION = '3.5.0'
     BUILDTOOL = 'make'
 
     DEV = { config ->
