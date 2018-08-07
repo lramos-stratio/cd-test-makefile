@@ -2,5 +2,12 @@
 
 echo "Mock changing version"
 
-VER=$1
-echo "Modifying Schema versions to: $VER"
+if [[ -z "$1" ]]; then
+	VERSION=$(cat $BASEDIR/VERSION)
+else
+	VERSION=$1
+fi
+
+echo "Modifying Installer version to: $VERSION"
+
+echo $VERSION > VERSION
