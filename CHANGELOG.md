@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.49.1 (upcoming)
+## 0.49.1 (August 07, 2018)
 
 * Test old versioning in branch III.
 
