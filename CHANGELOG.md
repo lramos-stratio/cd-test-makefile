@@ -3,7 +3,7 @@
 
 ## 0.49.0 (upcoming)
 
-* Pending changelog
+* Test old versioning in branch II.
 
 ## 0.48.0-0859c4a (Built: August 07, 2018 | Pre-release)
 
