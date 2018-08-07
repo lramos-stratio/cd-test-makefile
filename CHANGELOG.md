@@ -1,7 +1,11 @@
 # Changelog
 
 
-## 0.48.0 (upcoming)
+## 0.49.0 (upcoming)
+
+* Pending changelog
+
+## 0.48.0-0859c4a (Built: August 07, 2018 | Pre-release)
 
 * Test old versioning in branch.
 
