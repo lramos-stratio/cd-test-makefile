@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.50.0 (upcoming)
+## 0.50.0 (September 26, 2018)
 
 * Change to new versioning.
 
