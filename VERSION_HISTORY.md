@@ -67,6 +67,8 @@
 
 #### 0.6.0_491d1cd (Built: April 16, 2018, Released: April 16, 2018)
 
+#### 0.50.0-61e936f (Built: September 26, 2018 | Pre-release)
+
 #### 0.5.0_10b1902 (Built: April 13, 2018, Released: April 13, 2018)
 
 #### 0.48.0-0859c4a (Built: August 07, 2018 | Pre-release)

@@ -1,7 +1,11 @@
 # Changelog
 
 
-## 0.50.0 (upcoming)
+## 0.51.0 (upcoming)
+
+* Pending changelog
+
+## 0.50.0-61e936f (Built: September 26, 2018 | Pre-release)
 
 * Change to new versioning.
 
