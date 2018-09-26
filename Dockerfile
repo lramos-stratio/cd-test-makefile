@@ -1,4 +1,4 @@
-FROM stratio/ubuntu-base:16.04
+FROM ubuntu:16.04
 MAINTAINER QA "qa@stratio.com"
 
 ARG VERSION
