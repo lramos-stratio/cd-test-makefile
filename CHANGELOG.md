@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.51.0 (upcoming)
+## 0.51.0 (September 26, 2018)
 
 * Change base image to ubuntu:16.04
 
