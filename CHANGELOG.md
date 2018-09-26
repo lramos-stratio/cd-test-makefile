@@ -3,7 +3,7 @@
 
 ## 0.51.0 (upcoming)
 
-* Pending changelog
+* Change base image to ubuntu:16.04
 
 ## 0.50.0-61e936f (Built: September 26, 2018 | Released: September 26, 2018)
 
