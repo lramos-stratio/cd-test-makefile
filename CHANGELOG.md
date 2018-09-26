@@ -5,7 +5,7 @@
 
 * Pending changelog
 
-## 0.51.0-49f83ae (Built: September 26, 2018 | Pre-release)
+## 0.51.0-77997f5 (Built: September 26, 2018 | Pre-release)
 
 * Change base image to ubuntu:16.04
 
