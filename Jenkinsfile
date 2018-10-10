@@ -2,18 +2,20 @@
 
 hose {
     EMAIL = 'cd'
-    BUILDTOOLVERSION = '3.5.0'
-    NEW_VERSIONING = 'true'
     BUILDTOOL = 'make'
-    ANCHORE_TEST = true
 
-    DEV = { config ->
-        echo 'THIS IS MASTER'
-        doCompile(config)
-        doUT(config)
-        doPackage(config)
-        // doStaticAnalysis(config)
-        doDeploy(config)
+    DEV = { config, currentBuild, params ->
+	currentBuild.description = params?.NEXT_VERSION
+	def ROLLING_RELEASE = false
+	if (params?.ROLLING_RELEASE) {
+            ROLLING_RELEASE = params?.ROLLING_RELEASE.toBoolean()
+        }
+        if (ROLLING_RELEASE) {
+            def df = new SimpleDateFormat("yyyyMMdd")
+            config.INTERNAL_VERSION = "50.04-${df.format(new Date())}"
+        } else {
+            config.INTERNAL_VERSION = '50.04'
+        }
         doDocker(conf: config, skipOnPR: false)
         }
 }
