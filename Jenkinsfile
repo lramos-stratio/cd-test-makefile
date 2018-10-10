@@ -5,6 +5,7 @@ import java.text.SimpleDateFormat
 hose {
     EMAIL = 'cd'
     BUILDTOOL = 'make'
+    REPOSITORYLESS_BUILD = true
 
     DEV = { config, currentBuild, params ->
 	currentBuild.description = params?.NEXT_VERSION
