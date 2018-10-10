@@ -1,3 +1,5 @@
+import java.text.SimpleDateFormat
+
 @Library('libpipelines@preproduction') _
 
 hose {
