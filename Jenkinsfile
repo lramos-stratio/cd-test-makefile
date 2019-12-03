@@ -6,6 +6,7 @@ hose {
     EMAIL = 'cd'
     BUILDTOOL = 'make'
     REPOSITORYLESS_BUILD = true
+    NEW_VERSIONING = true
     DOCKERFILE = """FROM ubuntu:16.04
 MAINTAINER QA "qa@stratio.com"
 
