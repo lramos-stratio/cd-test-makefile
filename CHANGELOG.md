@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.51.1 (upcoming)
+## 0.51.1 (December 03, 2019)
 
 * Dummy change
 
