@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.0-0.1 (upcoming)
+
+* Adapt to upstream versioning
 
 ## 0.52.0 (upcoming)
 
