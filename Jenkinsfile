@@ -21,7 +21,7 @@ ARG VERSION
 
 CMD ["tail -f /dev/null"]"""
 
-    DEV = { config, currentBuild, params ->
+    DEV = { config ->
         //currentBuild.description = params?.NEXT_VERSION
 //         def ROLLING_RELEASE = false
 //         if (params?.ROLLING_RELEASE) {
@@ -31,13 +31,13 @@ CMD ["tail -f /dev/null"]"""
 //             def df = new SimpleDateFormat("yyyyMMdd")
 //             config.INTERNAL_VERSION = "50.04-${df.format(new Date())}"
 //         } else {
-            config.INTERNAL_VERSION = '50.04'
+//             config.INTERNAL_VERSION = '50.04'
 //         }
-        node (config.AGENT) {
-            dir (config.INTERNAL_WORKSPACE) {
-                writeFile file: 'Dockerfile', text: config.DOCKERFILE.stripMargin().stripIndent()
-            }
-        }
+//         node (config.AGENT) {
+//             dir (config.INTERNAL_WORKSPACE) {
+//                 writeFile file: 'Dockerfile', text: config.DOCKERFILE.stripMargin().stripIndent()
+//             }
+//         }
         doDocker(conf: config, skipOnPR: false)
     }
 }
