@@ -31,7 +31,7 @@ CMD ["tail -f /dev/null"]"""
 //             def df = new SimpleDateFormat("yyyyMMdd")
 //             config.INTERNAL_VERSION = "50.04-${df.format(new Date())}"
 //         } else {
-//             config.INTERNAL_VERSION = '50.04'
+            config.INTERNAL_VERSION = '50.04'
 //         }
         node (config.AGENT) {
             dir (config.INTERNAL_WORKSPACE) {
