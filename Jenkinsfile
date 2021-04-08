@@ -7,7 +7,7 @@ hose {
     BUILDTOOL = 'make'
 
     NEW_VERSIONING = 'true'
-    //UPSTREAM_VERSION = '0.1.0'
+    UPSTREAM_VERSION = '0.1.0'
     FREESTYLE_BRANCHING = true
     DEBUG = true
     ANCHORE_TEST = false
