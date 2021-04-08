@@ -8,7 +8,7 @@ hose {
 
     NEW_VERSIONING = 'true'
     UPSTREAM_VERSION = '0.1.0'
-    FREESTYLE_BRANCHING = true
+//     FREESTYLE_BRANCHING = true
     DEBUG = true
     ANCHORE_TEST = false
 
