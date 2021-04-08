@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0-0.1.0 (upcoming)
+## 0.1.0-0.1.0 (April 08, 2021)
 
 * Adapt to upstream versioning
 
