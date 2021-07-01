@@ -1,4 +1,4 @@
-@Library('libpipelines@pre') _
+@Library('libpipelines@anchoreAsyncPipeline') _
 
 hose {
     EMAIL = 'cd'
